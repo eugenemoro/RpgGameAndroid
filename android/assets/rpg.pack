@@ -1,0 +1,138 @@
+
+texturePack1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion64
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+knightAnim
+  rotate: false
+  xy: 516, 2
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+skeleton
+  rotate: false
+  xy: 878, 2
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+mage
+  rotate: false
+  xy: 516, 304
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 608, 304
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+archer
+  rotate: false
+  xy: 700, 304
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+cenarius
+  rotate: false
+  xy: 2, 516
+  size: 886, 140
+  orig: 886, 140
+  offset: 0, 0
+  index: -1
+actionPanel
+  rotate: false
+  xy: 2, 658
+  size: 840, 140
+  orig: 840, 140
+  offset: 0, 0
+  index: -1
+menuBtn
+  rotate: false
+  xy: 2, 800
+  size: 480, 100
+  orig: 480, 100
+  offset: 0, 0
+  index: -1
+btnRanged
+  rotate: false
+  xy: 878, 154
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnMeleeAttack
+  rotate: false
+  xy: 792, 304
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnHeal
+  rotate: false
+  xy: 792, 386
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnFireball
+  rotate: false
+  xy: 874, 304
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnRegen
+  rotate: false
+  xy: 874, 304
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnDefence
+  rotate: false
+  xy: 874, 386
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 878, 236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 944, 236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 516, 456
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+hpBar
+  rotate: false
+  xy: 516, 488
+  size: 90, 20
+  orig: 90, 20
+  offset: 0, 0
+  index: -1
